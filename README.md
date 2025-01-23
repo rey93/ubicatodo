@@ -1,2 +1,2 @@
-UbicaTodo is a Web App created by me, is simple and easy to use.
+UbicaTodo is a Web App created by me, Web App para saber donde tienes ubicadas todas tus cosas en la casa.
 Enjoy the app :)
