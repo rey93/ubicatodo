@@ -407,7 +407,7 @@ const handleSearch = (term) => {
                     </div>
                     <div className="contents">
                       <Routes>
-                          <Route path="/ubicatodo" element=
+                          <Route path="/" element=
 
                               {!isFound  ?  
                                   <div className='notes-box'>
