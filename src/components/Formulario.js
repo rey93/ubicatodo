@@ -26,7 +26,7 @@ function Formulario({ name, departament, total, description, departamentName, de
     const handleAppClick = () => {
         setSearchValue('')
         setIsFound(false)
-        navigate("/ubicatodo");
+        navigate("/");
     };
                                
 
