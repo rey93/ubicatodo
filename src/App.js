@@ -11,7 +11,7 @@ import { Image } from "react-bootstrap";
 import {Toaster, toast } from 'sonner';
 
 
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Departament from "./pages/Departament";
 
 import { v4 as uuidv4 } from 'uuid';
