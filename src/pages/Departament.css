@@ -1,0 +1,30 @@
+@import '../styles/colors.scss';
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap');
+
+
+.departament{
+    display: flex;
+    flex-direction: column;
+}
+.boxs-departament{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 30px;
+}
+.box{
+    width: 200px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #6f62ae;
+    border-radius: 20px;
+    color: aliceblue;
+}
+h2{
+    font-size: 20px;
+    text-align: center;
+    margin: 5px;
+}

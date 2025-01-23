@@ -1,0 +1,71 @@
+@import '../styles/colors.scss';
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap');
+
+.options-container{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 20px;
+  margin-left: 45px;
+}
+.option-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+}
+.option-item-add{
+  display: flex; 
+  flex-direction: column;
+  gap: 10px; 
+}
+.addActions{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  width: 160px;
+  background-color: rgb(230, 232, 233);
+  padding-left: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.icon1{
+  
+margin: 5px;
+}
+.icon2{
+  margin: 5px;
+}
+.icon1 svg{
+  font-size: 2rem; 
+  color: #503e9d;
+  height: 40px; /* Cambia aquí el tamaño */
+  width: 40px; /* Cambia aquí el tamaño */ 
+
+
+}
+
+.icon2 svg{
+  font-size: 2rem; 
+  color: #503e9d;
+  height: 40px; /* Cambia aquí el tamaño */
+  width: 40px; /* Cambia aquí el tamaño */ 
+
+
+
+}
+.icon {
+  font-size: 1rem; 
+  color: black; 
+  margin-right: 10px;
+}
+.addActions h1{
+  margin: 10px;
+}
+h1{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  color: rgb(75, 71, 71);
+}
