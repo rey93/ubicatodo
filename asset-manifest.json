@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ubicatodo/static/css/main.f31c4a2a.css",
-    "main.js": "/ubicatodo/static/js/main.3661216a.js",
+    "main.js": "/ubicatodo/static/js/main.c477cef7.js",
     "static/media/ilustracion2.png": "/ubicatodo/static/media/ilustracion2.c3a1e711bc691f831578.png",
     "static/media/UbicaTodoLogo.png": "/ubicatodo/static/media/UbicaTodoLogo.7225bcc10726bd5ec657.png",
     "index.html": "/ubicatodo/index.html",
     "main.f31c4a2a.css.map": "/ubicatodo/static/css/main.f31c4a2a.css.map",
-    "main.3661216a.js.map": "/ubicatodo/static/js/main.3661216a.js.map"
+    "main.c477cef7.js.map": "/ubicatodo/static/js/main.c477cef7.js.map"
   },
   "entrypoints": [
     "static/css/main.f31c4a2a.css",
-    "static/js/main.3661216a.js"
+    "static/js/main.c477cef7.js"
   ]
 }
